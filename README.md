@@ -103,7 +103,7 @@ bash stage2_scripts/evaluation/run.sh
 ## Contact
 
 If you have any problems, please contact 
-[Siye Wu](mailto:siyewu24@m.fudan.edu.cn),
+[Siye Wu](mailto:siyewu24@m.fudan.edu.cn) and
 [Jian Xie](mailto:jianx0321@gmail.com).
 
 ## Citation Information
