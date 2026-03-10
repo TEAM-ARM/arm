@@ -113,10 +113,12 @@ If our paper or related resources prove valuable to your research, we kindly ask
 <a href="https://github.com/TEAM-ARM/ARM"><img src="https://img.shields.io/github/stars/TEAM-ARM/ARM?style=social&label=ARM" alt="GitHub Stars"></a>
 
 ```
-@article{wu2025arm,
-  title={ARM: Adaptive Reasoning Model},
-  author={Wu, Siye and Xie, Jian and Zhang, Yikai and Chen, Aili and Zhang, Kai and Su, Yu and Xiao, Yanghua},
-  journal={arXiv preprint arXiv:2505.20258},
-  year={2025}
+@inproceedings{
+wu2025arm,
+title={{ARM}: Adaptive Reasoning Model},
+author={Siye Wu and Jian Xie and Yikai Zhang and Aili Chen and Kai Zhang and Yu Su and Yanghua Xiao},
+booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
+year={2025},
+url={https://openreview.net/forum?id=z9oeQrcNh9}
 }
 ```
