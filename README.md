@@ -23,6 +23,7 @@ ARM—Adaptive Reasoning Model, a reasoning model capable of adaptively selectin
 ## Updates
 
 - 2025/05/27: Thrilled to release [ARM](https://team-arm.github.io/arm/): A reasoning model capable of adaptively selecting reasoning formats based on the task, achieving a better trade-off between effectiveness and efficiency!
+- 2026/03/10: We further propose [CODA](https://github.com/Di-viner/coda/): A difficulty-aware compute allocation method for adaptive reasoning, enabling models to spend fewer tokens on easy problems and more on hard ones.
 
 ## Data & Model
 You can download our dataset and model from [🤗HuggingFace](https://huggingface.co/arm-team).
